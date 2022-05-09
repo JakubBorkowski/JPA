@@ -2,8 +2,8 @@
 The application provides H2 database at: http://localhost:8080/h2
 
 ### Login data:
-Username: sa\
-Password: \<none>
+Username: *sa*\
+Password: <*none>*
 
 ### Data model:
 
